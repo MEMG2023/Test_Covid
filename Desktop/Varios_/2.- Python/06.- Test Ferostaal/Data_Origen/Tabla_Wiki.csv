@@ -1,0 +1,240 @@
+﻿Location;Cases;Deaths
+World[a];776204376;7064367
+European Union[b];186007052;1263800
+United States;103436829;1199064
+China[c];99379706;122351
+India;45043037;533636
+France;38997490;168091
+Germany;38437756;174979
+Brazil;37511921;702116
+South Korea;34571873;35934
+Japan;33803572;74694
+Italy;26826486;197542
+United Kingdom;24985434;232112
+Russia;24355785;403292
+Turkey;17004724;101419
+Spain;13980340;121852
+Australia;11861161;25236
+Vietnam;11624000;43206
+Argentina;10102262;130671
+Taiwan;9970937;17672
+Netherlands;8641668;22986
+Iran;7627863;146837
+Mexico;7621860;334714
+Indonesia;6829549;162059
+Poland;6702201;120792
+Colombia;6393753;142727
+Austria;6082516;22534
+Greece;5697781;39451
+Portugal;5667254;28942
+Ukraine;5538518;109923
+Chile;5401806;64482
+Malaysia;5312619;37351
+Belgium;4878273;34339
+Israel;4841558;12707
+Canada;4819055;55282
+Thailand;4801275;34722
+Czech Republic;4769243;43531
+Peru;4526977;220975
+Switzerland;4460736;14170
+Philippines;4173631;66864
+South Africa;4072796;102595
+Romania;3563055;68893
+Denmark;3439642;9808
+Singapore;3006155;2024
+Hong Kong;2876106;13466
+Sweden;2759797;27630
+New Zealand;2646131;4403
+Serbia;2583470;18057
+Iraq;2465545;25375
+Hungary;2231740;49063
+Bangladesh;2051399;29499
+Slovakia;1878844;21230
+Georgia;1863615;17150
+Jordan;1746997;14122
+Republic of Ireland;1746696;9781
+Pakistan;1580631;30656
+Norway;1517803;5732
+Kazakhstan;1504370;19072
+Finland;1499712;11466
+Lithuania;1379285;9818
+Slovenia;1357690;9710
+Bulgaria;1332982;38711
+Croatia;1332297;18760
+Morocco;1279115;16305
+Puerto Rico;1252713;5938
+Guatemala;1250388;20203
+Lebanon;1239904;10947
+Costa Rica;1235479;9374
+Bolivia;1212149;22387
+Tunisia;1153361;29423
+Cuba;1113662;8530
+Ecuador;1078505;36052
+United Arab Emirates;1067030;2349
+Panama;1044914;8754
+Uruguay;1041424;7682
+Mongolia;1011489;2136
+Nepal;1003450;12031
+Belarus;994037;7118
+Latvia;977765;7475
+Saudi Arabia;841469;9646
+Azerbaijan;836147;10353
+Paraguay;735759;19880
+Palestine;703228;5708
+Cyprus;698847;1482
+Bahrain;696614;1536
+Sri Lanka;672802;16907
+Kuwait;667290;2570
+Dominican Republic;661103;4384
+Moldova;647329;12266
+Myanmar;643049;19494
+Estonia;610471;2998
+Venezuela;552695;5856
+Egypt;516023;24830
+Qatar;514524;690
+Libya;507269;6437
+Ethiopia;501223;7574
+Réunion;494595;921
+Honduras;472904;11114
+Armenia;452273;8777
+Bosnia and Herzegovina;403729;16396
+Oman;399449;4628
+Luxembourg;394254;1000
+North Macedonia;351819;9981
+Zambia;349871;4078
+Brunei;348487;181
+Kenya;344109;5689
+Albania;335047;3605
+Botswana;330696;2801
+Mauritius;328335;1074
+Kosovo;274279;3212
+Algeria;272157;6881
+Nigeria;267189;3155
+Zimbabwe;266387;5740
+Montenegro;251280;2654
+Afghanistan;235214;7998
+Mozambique;233843;2252
+Martinique;230354;1104
+Laos;219060;671
+Iceland;210534;186
+Guadeloupe;203235;1021
+El Salvador;201948;4230
+Trinidad and Tobago;191496;4390
+Maldives;186694;316
+Uzbekistan;175081;1016
+Namibia;172549;4110
+Uganda;172159;3632
+Ghana;172080;1462
+Jamaica;157283;3615
+Cambodia;139324;3056
+Rwanda;133266;1468
+Cameroon;125259;1974
+Malta;122967;936
+Barbados;108798;593
+Angola;107481;1937
+Democratic Republic of the Congo;100973;1474
+French Guiana;98041;413
+Senegal;89301;1972
+Malawi;89168;2686
+Kyrgyzstan;88953;1024
+Ivory Coast;88443;835
+Suriname;82502;1406
+New Caledonia;80203;314
+French Polynesia;79440;650
+Eswatini;75356;1427
+Guyana;74485;1302
+Belize;71416;688
+Fiji;69047;885
+Madagascar;68572;1428
+Jersey;66391;161
+Cabo Verde;64474;417
+Sudan;63993;5046
+Mauritania;63875;997
+Bhutan;62697;21
+Syria;57423;3163
+Burundi;54569;15
+Guam;52287;419
+Seychelles;51891;172
+Gabon;49051;307
+Andorra;48015;159
+Papua New Guinea;46864;670
+Curaçao;45883;305
+Aruba;44224;292
+Tanzania;43244;846
+Mayotte;42027;187
+Togo;39530;290
+Bahamas;39127;849
+Guinea;38573;468
+Isle of Man;38008;116
+Lesotho;36138;709
+Guernsey;35326;67
+Faroe Islands;34658;28
+Haiti;34515;860
+Mali;33166;743
+Federated States of Micronesia;31765;65
+Cayman Islands;31472;37
+Saint Lucia;30287;410
+Benin;28036;163
+Somalia;27334;1361
+Solomon Islands;25954;199
+United States Virgin Islands;25389;132
+San Marino;25292;126
+Republic of the Congo;25232;389
+Timor-Leste;23460;138
+Burkina Faso;22139;400
+Liechtenstein;21591;89
+Gibraltar;20550;113
+Grenada;19693;238
+Bermuda;18860;165
+South Sudan;18827;147
+Tajikistan;17786;125
+Monaco;17181;67
+Equatorial Guinea;17130;183
+Samoa;17057;31
+Tonga;16992;13
+Marshall Islands;16297;17
+Nicaragua;16191;245
+Dominica;16047;74
+Djibouti;15690;189
+Central African Republic;15441;113
+Northern Mariana Islands;14972;41
+Gambia;12627;372
+Collectivity of Saint Martin;12324;46
+Vanuatu;12019;14
+Greenland;11971;21
+Yemen;11945;2159
+Caribbean Netherlands;11922;41
+Sint Maarten;11051;92
+Eritrea;10189;103
+Saint Vincent and the Grenadines;9674;124
+Guinea-Bissau;9614;177
+Niger;9518;315
+Comoros;9109;160
+Antigua and Barbuda;9106;146
+American Samoa;8359;34
+Liberia;8090;294
+Sierra Leone;7981;126
+Chad;7702;194
+British Virgin Islands;7557;64
+Cook Islands;7375;2
+Turks and Caicos Islands;6805;40
+Sao Tome and Principe;6771;80
+Saint Kitts and Nevis;6607;46
+Palau;6372;10
+Saint Barthélemy;5507;5
+Nauru;5393;1
+Kiribati;5085;24
+Anguilla;3904;12
+Wallis and Futuna;3760;9
+Macau;3514;121
+Saint Pierre and Miquelon;3426;2
+Tuvalu;2943;1
+Saint Helena, Ascension and Tristan da Cunha;2166;0
+Falkland Islands;1923;0
+Montserrat;1403;8
+Niue;1087;0
+Tokelau;80;0
+Vatican City;26;0
+Pitcairn Islands;4;0
+Turkmenistan;0;0
+North Korea;0;0
