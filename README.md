@@ -29,15 +29,17 @@ Datasets: Casos de COVID en el mundo y demografía Países.
 
 ## Insights a Priori
 
-- **Enhanced Product Categories**: Expand the logic for other categories of products, including more constraints based on product types.
-- **International Shipping Rates**: Add functionality to handle international shipping costs.
-- **Machine Learning for Tariff Prediction**: Implement a predictive model based on historical data to optimize tariff selection.
+- **M**: s
 
   ![image](https://github.com/user-attachments/assets/1f3710d7-3820-4250-8a40-50aa83793c00)
 
 
 
-https://github.com/user-attachments/assets/1b8f8c75-39bc-4174-b14b-21684341a2f2
+
+
+https://github.com/user-attachments/assets/7b745867-4c9a-4c90-ae73-36d0f065d0e5
+
+
 
 
 
