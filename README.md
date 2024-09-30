@@ -35,7 +35,7 @@ Datasets: Casos de COVID en el mundo y demografía Países.
 
 
 
-[Video de la Interactividad de Plotly](https://www.dropbox.com/scl/fi/3qh19v58uv6mbilzphuk4/Ej_Plotly.mp4?rlkey=cnu1u7l65y0peg6gy24ggzisl&st=9amhz0a1&dl=1)
+[Video de la Interactividad de Plotly](https://www.dropbox.com/scl/fi/3qh19v58uv6mbilzphuk4/Ej_Plotly.mp4?rlkey=cnu1u7l65y0peg6gy24ggzisl&e=1&st=9amhz0a1&dl=0)
 
 
 
