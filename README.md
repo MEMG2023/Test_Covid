@@ -33,6 +33,10 @@ Datasets: Casos de COVID en el mundo y demografía Países.
 - **International Shipping Rates**: Add functionality to handle international shipping costs.
 - **Machine Learning for Tariff Prediction**: Implement a predictive model based on historical data to optimize tariff selection.
 
+  ![image](https://github.com/user-attachments/assets/1f3710d7-3820-4250-8a40-50aa83793c00)
+
+
+
  ## Temas a Mejorar
 
  
