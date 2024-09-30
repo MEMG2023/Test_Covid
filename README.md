@@ -37,6 +37,10 @@ Datasets: Casos de COVID en el mundo y demografía Países.
 
 
 
+https://github.com/user-attachments/assets/1b8f8c75-39bc-4174-b14b-21684341a2f2
+
+
+
  ## Temas a Mejorar
 
  
